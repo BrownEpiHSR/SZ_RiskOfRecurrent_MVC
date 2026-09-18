@@ -7,8 +7,14 @@ Sirui Zhang et al. - Risk of a Recurrent Motor Vehicle Crash Following Antihyper
 **Sirui Zhang, MPH; Nina Joyce, PhD; Adam D'Amico, MPH; Arman Oganisian, PhD;
 Andrew R. Zullo, PharmD, PhD; Daniel A. Harris, PhD; Kaleen N. Hayes, PharmD, PhD**
 
-Department of Epidemiology, Brown University School of Public Health  
-Providence, Rhode Island, USA
+Department of Epidemiology, Brown University School of Public Health, Providence, RI, USA
+Center for Gerontology and Healthcare Research, Brown University School of Public Health,
+Providence, RI, USA
+Department of Biostatistics, Brown University School of Public Health, Providence, RI, USA 
+Department of Health Services, Policy, and Practice, Brown University School of Public
+Health, Providence, RI, USA
+Department of Epidemiology, College of Health Sciences, University of Delaware, Newark, DE, USA
+
 
 ---
 
