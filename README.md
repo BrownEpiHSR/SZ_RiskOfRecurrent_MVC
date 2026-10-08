@@ -120,11 +120,10 @@ The full target trial protocol is described in Supplementary Table S1 of the man
 | Dataset | Full Name | Coverage | Purpose |
 |---|---|---|---|
 | NJ-SHO | New Jersey Safety and Health Outcomes records | 2008-2017 | Index and recurrent MVC ascertainment; at-fault status |
-| MBSF | Medicare Beneficiary Summary File | 2007-2017 | Demographics; enrollment; mortality dates |
-| MedPAR | Medicare Provider Analysis and Review | 2007-2017 | Inpatient hospitalizations |
-| Carrier (Part B) | Medicare Carrier claims | 2007-2017 | Outpatient visits |
-| Part D | Medicare Prescription Drug Event records | 2007-2017 | Antihypertensive dispensing; PDI drug class ascertainment |
-| MDS/SNF | Minimum Data Set / Skilled Nursing Facility claims | 2007-2017 | Long-term care entry dates |
+| MBSF | Medicare Beneficiary Summary File | 2007-2018 | Demographics; enrollment; mortality dates |
+| MedPAR | Medicare Provider Analysis and Review | 2007-2018 | Inpatient hospitalizations |
+| Carrier (Part B) | Medicare Carrier claims | 2007-2018 | Outpatient visits |
+| Part D | Medicare Prescription Drug Event records | 2007-2018 | Antihypertensive dispensing; PDI drug class ascertainment |
 
 **Data Access:** These data were obtained under a Data Use Agreement (DUA) with the Centers for Medicare and Medicaid Services (CMS). The linked NJ-SHO-Medicare dataset is not publicly available. Only de-identified summary statistics and analytic code are included in this repository.
 
