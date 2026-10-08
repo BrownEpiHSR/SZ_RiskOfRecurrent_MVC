@@ -543,10 +543,11 @@ arm_s3 <- compute_sw_a(arm_s3, num_s3_m1, den_s3_m1, num_s3_m2, den_s3_m2, num_s
 
 # =============================================================================
 # SECTION 8: INVERSE PROBABILITY OF CENSORING WEIGHTS (IPCW)
-#            for informative right-censoring due to disenrollment
+#            for informative right-censoring due to disenrollment and end of study period 
+#             (per discussion with the senior author, while some studies may not consider end of study period as informative)
 #
 # Rationale:
-#   Participants who disenroll from Medicare 
+#   Participants who disenroll from Medicare and end due to the study
 #   period may differ systematically from those who remain, making their
 #   exit potentially informative. IPCW reweights participants at each month
 #   to represent the eligible population that has not yet exited.
@@ -562,9 +563,9 @@ arm_s3 <- compute_sw_a(arm_s3, num_s3_m1, den_s3_m1, num_s3_m2, den_s3_m2, num_s
 #   Unlike IPACW, IPCW is updated at every month throughout follow-up (not frozen).
 # =============================================================================
 
-# Create study exit censoring indicator (1 = exited due to disenrollment)
+# Create study exit censoring indicator (1 = exited due to disenrollment or end of study period)
 anal_data[, censor_study_exit := fifelse(
-  get(CENSOR_DISENROL_VAR) == 1, 1L, 0L
+  get(CENSOR_DISENROL_VAR) == 1 | get(CENSOR_STUDY_END_VAR) ==1, 1L, 0L
 )]
 
 # Pool all three arm datasets for IPCW model fitting
