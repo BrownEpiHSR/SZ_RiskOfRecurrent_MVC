@@ -119,7 +119,7 @@ The full target trial protocol is described in Supplementary Table S1 of the man
 
 | Dataset | Full Name | Coverage | Purpose |
 |---|---|---|---|
-| NJ-SHO | New Jersey Safety and Health Outcomes records | 2008-2017 | Index and recurrent MVC ascertainment; at-fault status |
+| NJ-SHO | New Jersey Safety and Health Outcomes records | 2004-2018 | Data included licensing information between 2007-2018 and crash information between 2007-2017; Index and recurrent MVC ascertainment; at-fault status |
 | MBSF | Medicare Beneficiary Summary File | 2007-2018 | Demographics; enrollment; mortality dates |
 | MedPAR | Medicare Provider Analysis and Review | 2007-2018 | Inpatient hospitalizations |
 | Carrier (Part B) | Medicare Carrier claims | 2007-2018 | Outpatient visits |
