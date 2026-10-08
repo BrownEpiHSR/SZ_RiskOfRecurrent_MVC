@@ -209,7 +209,7 @@ Combined stabilized weights at the end of month 3 are carried forward (frozen) a
 
 **(b) Inverse Probability of Censoring Weights (IPCW) for Informative Right-Censoring**
 
-A single pooled logistic regression model across all arms and months estimates the probability of remaining uncensored due to Medicare disenrollment. Unlike competing events (death and long-term care entry), these censoring events remove participants from the risk set and may be informative.
+A single pooled logistic regression model across all arms and months estimates the probability of remaining uncensored due to Medicare disenrollment and end of study period (per discussion with senior author, though many studies would not consider end-of-study-period as informative). Unlike competing events (death and long-term care entry), these censoring events remove participants from the risk set and may be informative.
 
 - **Denominator model:** P(not censored at t | month, baseline and time-varying covariates)
 - **Numerator model:** P(not censored at t | month) - stabilizes the weights
