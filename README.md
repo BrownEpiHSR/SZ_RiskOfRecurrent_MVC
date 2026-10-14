@@ -364,7 +364,7 @@ This repository is licensed under the **MIT License**. See `LICENSE` for full te
 ## Citation
 
 > [To be completed after manuscript acceptance]
-> Zhang S, Joyce N, D'Amico A, Oganisian A, Zullo AR, Harris DA, Hayes KN. Antihypertensive Treatment Strategy Changes Following a Motor Vehicle Crash and Risk of Recurrent Crash Among Older Medicare Drivers: A Target Trial Emulation. *Journal of the American Geriatrics Society*. [Year]; doi: [DOI]
+> Zhang S, Joyce N, D'Amico A, Oganisian A, Zullo AR, Harris DA, Hayes KN. Risk of a Recurrent Motor Vehicle Crash Following Antihypertensive Medication Changes Among Older Drivers. *Journal of the American Geriatrics Society*. [Year]; doi: [DOI]
 
 **Repository citation:**
-> Zhang S, et al. Code and data documentation for: Antihypertensive Treatment Strategy Changes Following a Motor Vehicle Crash and Risk of Recurrent Crash Among Older Medicare Drivers. GitHub repository. doi: [Zenodo DOI: 10.5281/zenodo.23246055]
+> Zhang S, et al. Code and data documentation for: Risk of a Recurrent Motor Vehicle Crash Following Antihypertensive Medication Changes Among Older Drivers. GitHub repository. doi: [Zenodo DOI: 10.5281/zenodo.23246055]
