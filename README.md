@@ -309,7 +309,7 @@ Full variable definitions are provided in `data_documentation/RiskOfRecurrent_MV
 
 ## Software and Package Requirements
 
-**Primary language:** R (version 4.5.3 or higher recommended)
+**Primary language:** R (version 4.6.0)
 **Data management:** SAS (used for upstream data management and outcome ascertainment; SAS code available from corresponding author upon request)
 
 ### Required R Packages
@@ -367,4 +367,4 @@ This repository is licensed under the **MIT License**. See `LICENSE` for full te
 > Zhang S, Joyce N, D'Amico A, Oganisian A, Zullo AR, Harris DA, Hayes KN. Antihypertensive Treatment Strategy Changes Following a Motor Vehicle Crash and Risk of Recurrent Crash Among Older Medicare Drivers: A Target Trial Emulation. *Journal of the American Geriatrics Society*. [Year]; doi: [DOI]
 
 **Repository citation:**
-> Zhang S, et al. Code and data documentation for: Antihypertensive Treatment Strategy Changes Following a Motor Vehicle Crash and Risk of Recurrent Crash Among Older Medicare Drivers. GitHub repository. doi: [Zenodo DOI - to be issued]
+> Zhang S, et al. Code and data documentation for: Antihypertensive Treatment Strategy Changes Following a Motor Vehicle Crash and Risk of Recurrent Crash Among Older Medicare Drivers. GitHub repository. doi: [Zenodo DOI: 10.5281/zenodo.23246055]
